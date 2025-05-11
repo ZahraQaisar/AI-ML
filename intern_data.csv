@@ -1,0 +1,30 @@
+intern_id,age,education_level,course_id,course_title,course_domain,difficulty_level,completion_status,time_spent_hours,rating,completion_date
+1,22,Bachelor,C101,Python Basics,Programming,Beginner,Completed,4.2,4,2023-05-15
+1,22,Bachelor,D205,Data Analysis with Pandas,Data Science,Intermediate,In Progress,8.5,,2023-07-20
+1,22,Bachelor,M301,Linear Algebra for ML,Mathematics,Advanced,Not Started,0.0,,
+2,24,Master,D102,Data Visualization,Data Science,Beginner,Completed,6.8,5,2023-04-10
+2,24,Master,P202,Object-Oriented Programming,Programming,Intermediate,Completed,10.2,4,2023-06-05
+2,24,Master,M301,Linear Algebra for ML,Mathematics,Advanced,In Progress,5.5,,2023-08-12
+3,21,Bachelor,C101,Python Basics,Programming,Beginner,Completed,5.0,3,2023-03-22
+3,21,Bachelor,D102,Data Visualization,Data Science,Beginner,Completed,7.3,4,2023-05-18
+4,23,Bachelor,P202,Object-Oriented Programming,Programming,Intermediate,Completed,9.5,5,2023-06-30
+4,23,Bachelor,D205,Data Analysis with Pandas,Data Science,Intermediate,In Progress,6.0,,2023-08-15
+5,25,Master,M301,Linear Algebra for ML,Mathematics,Advanced,Completed,15.0,5,2023-07-10
+5,25,Master,D305,Deep Learning Fundamentals,Data Science,Advanced,Not Started,0.0,,
+6,20,Bachelor,C101,Python Basics,Programming,Beginner,Completed,4.8,4,2023-04-05
+6,20,Bachelor,D102,Data Visualization,Data Science,Beginner,In Progress,3.2,,2023-06-20
+7,22,Bachelor,P202,Object-Oriented Programming,Programming,Intermediate,Completed,8.7,3,2023-05-25
+8,24,Master,D205,Data Analysis with Pandas,Data Science,Intermediate,Completed,11.5,5,2023-07-15
+9,21,Bachelor,M301,Linear Algebra for ML,Mathematics,Advanced,In Progress,7.8,,2023-08-10
+10,23,Bachelor,D305,Deep Learning Fundamentals,Data Science,Advanced,Not Started,0.0,,
+11,22,Master,C101,Python Basics,Programming,Beginner,Completed,3.5,5,2023-03-15
+11,22,Master,D102,Data Visualization,Data Science,Beginner,Completed,5.7,4,2023-05-10
+12,24,Bachelor,P202,Object-Oriented Programming,Programming,Intermediate,Completed,10.0,4,2023-06-25
+13,21,Bachelor,D205,Data Analysis with Pandas,Data Science,Intermediate,In Progress,4.5,,2023-08-05
+14,23,Master,M301,Linear Algebra for ML,Mathematics,Advanced,Completed,14.2,5,2023-07-20
+15,25,PhD,D305,Deep Learning Fundamentals,Data Science,Advanced,Not Started,0.0,,
+16,20,Bachelor,C101,Python Basics,Programming,Beginner,Completed,5.2,3,2023-04-10
+17,22,Bachelor,D102,Data Visualization,Data Science,Beginner,Completed,6.5,4,2023-05-15
+18,24,Master,P202,Object-Oriented Programming,Programming,Intermediate,In Progress,7.0,,2023-07-30
+19,21,Bachelor,D205,Data Analysis with Pandas,Data Science,Intermediate,Completed,9.8,5,2023-06-20
+20,23,Bachelor,M301,Linear Algebra for ML,Mathematics,Advanced,Not Started,0.0,,
