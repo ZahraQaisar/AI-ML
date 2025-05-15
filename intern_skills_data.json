@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Ali",
+        "skills": ["Python", "Data Analysis", "SQL", "Excel"]
+    },
+    {
+        "name": "Sara",
+        "skills": ["Python", "Machine Learning", "Data Visualization", "Deep Learning"]
+    },
+    {
+        "name": "Zara",
+        "skills": ["SQL", "Python", "Data Analysis"]
+    },
+    {
+        "name": "Imran",
+        "skills": ["R", "Statistics", "Data Visualization"]
+    },
+    {
+        "name": "Hassan",
+        "skills": ["Python", "Machine Learning", "Big Data"]
+    },
+    {
+        "name": "Fatima",
+        "skills": ["Python", "SQL", "Data Cleaning", "Visualization"]
+    },
+    {
+        "name": "Ahmed",
+        "skills": ["R", "Data Analysis", "Machine Learning"]
+    },
+    {
+        "name": "John",
+        "skills": ["Python", "Data Science", "Business Intelligence"]
+    },
+    {
+        "name": "Maya",
+        "skills": ["Python", "Deep Learning", "TensorFlow", "Keras"]
+    },
+    {
+        "name": "Raza",
+        "skills": ["Data Analysis", "SQL", "Excel", "Visualization"]
+    }
+]

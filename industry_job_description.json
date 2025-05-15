@@ -1,0 +1,42 @@
+[
+    {
+        "job_title": "Data Scientist",
+        "required_skills": ["Python", "Machine Learning", "SQL", "Data Visualization", "Deep Learning"]
+    },
+    {
+        "job_title": "Data Analyst",
+        "required_skills": ["Python", "SQL", "Excel", "Data Visualization"]
+    },
+    {
+        "job_title": "Machine Learning Engineer",
+        "required_skills": ["Python", "Machine Learning", "Deep Learning", "Big Data"]
+    },
+    {
+        "job_title": "Business Analyst",
+        "required_skills": ["SQL", "Excel", "Data Analysis", "Business Intelligence"]
+    },
+    {
+        "job_title": "Data Engineer",
+        "required_skills": ["Python", "Big Data", "SQL", "Data Warehousing"]
+    },
+    {
+        "job_title": "AI Specialist",
+        "required_skills": ["Python", "Machine Learning", "Deep Learning", "Artificial Intelligence"]
+    },
+    {
+        "job_title": "Big Data Analyst",
+        "required_skills": ["Python", "Big Data", "SQL", "Data Analytics"]
+    },
+    {
+        "job_title": "Software Engineer",
+        "required_skills": ["Python", "Software Development", "SQL"]
+    },
+    {
+        "job_title": "Product Analyst",
+        "required_skills": ["Data Analysis", "SQL", "Product Management"]
+    },
+    {
+        "job_title": "Data Architect",
+        "required_skills": ["SQL", "Data Warehousing", "Big Data", "Data Modeling"]
+    }
+]
