@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How do I apply for leave?",
+    "answer": "Use the intern portal > Leave Request section to apply for leave."
+  },
+  {
+    "question": "Where can I find my project files?",
+    "answer": "Project files are available in the shared drive. Use your intern email to access it."
+  },
+  {
+    "question": "Who do I contact if my system is not working?",
+    "answer": "Please contact the IT support team at it.support@company.com."
+  },
+  {
+    "question": "What are the working hours for interns?",
+    "answer": "Interns are expected to work from 9 AM to 5 PM, Monday to Friday."
+  },
+  {
+    "question": "How can I reset my intern portal password?",
+    "answer": "Go to the intern portal login page and click 'Forgot Password' to reset your password."
+  },
+  {
+    "question": "How do I mark my daily attendance?",
+    "answer": "Use the attendance tab in the intern portal to mark your presence every day."
+  },
+  {
+    "question": "Where can I see my assigned tasks?",
+    "answer": "Assigned tasks can be viewed under the 'My Tasks' section on the intern dashboard."
+  },
+  {
+    "question": "Is there any dress code for interns?",
+    "answer": "Yes, interns are expected to wear formal or business casual attire."
+  },
+  {
+    "question": "Can I work remotely during my internship?",
+    "answer": "Remote work is subject to approval by your supervisor. Please submit a request via email."
+  },
+  {
+    "question": "How do I get my internship completion certificate?",
+    "answer": "Certificates are issued after successful completion. Request it via HR at hr@company.com."
+  }
+]
